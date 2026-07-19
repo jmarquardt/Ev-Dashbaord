@@ -1,0 +1,85 @@
+{ 
+
+ "version": "1.0", 
+
+ "currency": "EUR", 
+
+ 
+
+ "vehicles": [ 
+
+  { 
+
+   "id": "zeekr-7x-privilege-awd", 
+
+ 
+
+   "manufacturer": "Zeekr", 
+
+   "model": "7X", 
+
+   "variant": "Privilege AWD", 
+
+ 
+
+   "category": "SUV", 
+
+ 
+
+   "battery": { 
+
+    "netCapacityKWh": 100 
+
+   }, 
+
+ 
+
+   "range": { 
+
+    "wltpKm": 615, 
+
+    "summerHighwayKm": 530, 
+
+    "winterHighwayKm": 420 
+
+   }, 
+
+ 
+
+   "charging": { 
+
+    "architectureVolt": 800, 
+
+    "peakPowerKW": 480, 
+
+    "time10to80Min": 13 
+
+   }, 
+
+ 
+
+   "pricing": { 
+
+    "listPrice": 62990, 
+
+    "streetPrice": 58990 
+
+   }, 
+
+ 
+
+   "media": { 
+
+    "logo": "logos/zeekr.svg", 
+
+    "image": "images/zeekr7x.webp", 
+
+    "color": "#00C853" 
+
+   } 
+
+  } 
+
+ ] 
+
+} 
